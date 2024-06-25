@@ -40,7 +40,7 @@ Two output directories are required for saving the color corrected results:
 * "*AMWF_results*" : The color corrected images of "*multiview_warp_result*" are saved in this directory.
 * "*stitched_results*" : The stitched color corrected image ("*AMWF.png*") is saved in this directory.
 
-All 30 testing multiview image sets and the qualitative quality results are available at website?.
+All 30 testing multiview image sets and the qualitative quality results are available at https://drive.google.com/drive/folders/1EJS0ivVr7g-k_e5nry84cCnQwrP8EjB8?usp=drive_link.
 
 ## Contact
 
